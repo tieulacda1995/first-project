@@ -1,0 +1,23 @@
+.form-nhap{
+    border: 1px solid #ced4da;
+}
+
+.form {
+    margin: 0 20px;
+}
+.left {
+    text-align: left;
+}
+.them {
+    background-color: rgb(255, 173, 144);
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1rem;
+}
+.margin-bot {
+    margin-bottom: 10px;
+}
+.fl-right {
+    float: right;
+    cursor: pointer;
+}
